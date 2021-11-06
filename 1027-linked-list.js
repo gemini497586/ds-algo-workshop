@@ -71,10 +71,10 @@ function deleteValue(head, value) {
   return head;
 }
 
-// insertAfterValue(3, 5);
-// printList(head);
-// // console.log(printList(head));
+insertAfterValue(3, 5);
+printList(head);
+// console.log(printList(head));
 
-// head = deleteValue(head, 3);
-// printList(head);
-// // console.log(printList(head));
+head = deleteValue(head, 3);
+printList(head);
+// console.log(printList(head));
